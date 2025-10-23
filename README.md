@@ -19,7 +19,7 @@ Table of Contents
 What is GeoNode?
 ----------------
 
-NETTO
+LIDL
 GeoNode is a geospatial content management system, a platform for the
 management and publication of geospatial data. It brings together mature
 and stable open-source software projects under a consistent and
